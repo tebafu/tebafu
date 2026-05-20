@@ -1,7 +1,6 @@
--   Hello, my name is Napoleon-Gartsonis and I'm a Computer Science Student on his last year of university
+-   Hello, my name is Napoleon-Gartsonis
 -   I’m interested in just about anything Computer Science related
--   I’m currently learning about web development to become a fullstack developer
--   You can probably reach me via email at napoleon.gartsonis@gmail.com or on Discord: tebafu#9283
+-   You can probably reach me via email at napoleon.gartsonis@gmail.com
 <!--
 **tebafu/tebafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
